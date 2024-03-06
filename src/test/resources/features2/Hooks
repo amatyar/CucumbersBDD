@@ -1,0 +1,13 @@
+#Feature: Login to SauceDemo
+
+  @regression
+ # Scenario: User logs in with valid credentials0
+  #  Given the user is on the login page0
+   # When the user enters valid username and password0
+    #Then the user should be logged in successfully0
+
+  @smoke
+ # Scenario: User logs in with invalid credentials0
+  #  Given the user is on the login page0
+   # When the user enters invalid username and password0
+    #Then the user should see an error message0
